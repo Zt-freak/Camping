@@ -1,0 +1,10 @@
+C:\Users\bnkho\source\repos\Camping\Camping\bin\Debug\Camping.exe.config
+C:\Users\bnkho\source\repos\Camping\Camping\bin\Debug\Camping.exe
+C:\Users\bnkho\source\repos\Camping\Camping\bin\Debug\Camping.pdb
+C:\Users\bnkho\source\repos\Camping\Camping\obj\Debug\Camping.csprojAssemblyReference.cache
+C:\Users\bnkho\source\repos\Camping\Camping\obj\Debug\Camping.Form1.resources
+C:\Users\bnkho\source\repos\Camping\Camping\obj\Debug\Camping.Properties.Resources.resources
+C:\Users\bnkho\source\repos\Camping\Camping\obj\Debug\Camping.csproj.GenerateResource.cache
+C:\Users\bnkho\source\repos\Camping\Camping\obj\Debug\Camping.csproj.CoreCompileInputs.cache
+C:\Users\bnkho\source\repos\Camping\Camping\obj\Debug\Camping.exe
+C:\Users\bnkho\source\repos\Camping\Camping\obj\Debug\Camping.pdb
